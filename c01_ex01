@@ -33,6 +33,7 @@ if ($rezultat > 0) {
 	print "Rezultatul: <strong>$lei lei</strong> ". "inseamna <strong>$rezultat". " euro</strong>";
 } else {
 	print "Trebuie sa introduci o suma mai mare decat 0 !";
+	// Aici afli daca iti da rezultatul corect sau nu.
 }
 */
 ?>
