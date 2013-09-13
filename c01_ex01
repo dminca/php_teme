@@ -20,7 +20,7 @@ form {
 	<input type="submit" name="btn" value="Afla cati EURO!"/>
 
 </form>
-
+<!-- ** CODUL PHP ADAUGAT ** --!>
 <?php
 $lei=$_GET['lei'];
 $euro=4.47;
