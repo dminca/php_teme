@@ -51,5 +51,6 @@ $salComplet=array_sum($values)+$brut;
 
 echo "Salariul COMPLET platit de angajator: $salComplet lei";
 ?>
+
 </body>
 </html>
