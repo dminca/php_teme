@@ -59,8 +59,6 @@ a:hover {
 
         echo "<br>Salariul net este $salNet";    
     }
-
-
 ?>
 
 </body>
