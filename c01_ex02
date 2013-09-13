@@ -41,6 +41,8 @@ a:hover {
 
 </form>
 
+<!-- **De aici incepe codul PHP** --!>
+
 <?php				
 $nota_online = @$_GET['notaOnline'];
 $nota_proiect = @$_GET['notaProiect'];
