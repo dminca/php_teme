@@ -27,7 +27,7 @@ if(($an % 4 == 0 && $an % 100 !=0) ||
 		echo "$an nu este bisect"; 
 	}
 
-
+//fadraar
 
 
 ?>
