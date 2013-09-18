@@ -22,7 +22,11 @@ Aici vom stoca toate TEMELE facute in PHP.
 
 <b>git init</b> - initialise repository
 
+-----------------
+
 <b>git status</b> - see how the repository status has changed
+
+-----------------
 
 <b>git add octocat.txt</b> - To tell Git to start tracking changes
 
