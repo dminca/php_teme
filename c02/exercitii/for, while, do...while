@@ -1,0 +1,26 @@
+<?php
+
+// ** 1) for
+for($i = 1; $i < n; $i++) {
+	echo "$i, ";
+}
+
+// ** 2) while (este cel mai folosit)
+
+$i = 1;
+while ($i <= n) {
+	echo "$i, ";
+	$i++;
+}
+
+
+// ** 3) do...while
+$i = 1;
+
+do 
+	echo "$i, ";
+	$i++;
+while ($i <=$n);
+
+
+?>
