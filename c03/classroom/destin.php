@@ -3,7 +3,7 @@
 $name = "lista";
 
 //start select
-echo "<select> name=$name>";
+echo "<select> name=$name";
 
 //generez el. option
 for ($i; $i<=31; $i++){
